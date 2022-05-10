@@ -8,8 +8,6 @@
   color: "cfd3d7"
 - name: "in progress"
   color: "ffccd7"
-- name: "important"
-  color: "fc1423"
 - name: "Semver: Major"
   color: "c10f47"
 - name: "Semver: Minor"
