@@ -20,6 +20,10 @@
 				"groupName": "Discord.JS Dependencies"
 			},
 			{
+				"matchPackageNames": ["prettier", "eslint-plugin-prettier"],
+				"groupName": "Prettier Depencencies"
+			},
+			{
 				"matchDepTypes": ["engines"],
 				"enabled": false
 			}
