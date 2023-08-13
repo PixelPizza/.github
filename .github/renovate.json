@@ -1,4 +1,4 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"extends": ["github>PixelPizza/.github:pixelpizza-renovate"]
+	"extends": ["github>PixelPizza/renovate-configs:default-renovate"]
 }
